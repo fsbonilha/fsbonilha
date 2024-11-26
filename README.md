@@ -20,4 +20,4 @@ Outside of coding, I’m passionate about **chess** – not just playing it, but
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat about software, data, or chess!  
 
-📫 **Let’s connect**: fsbonilha@gmail.com / [LinkedIn](www.linkedin.com/in/felipe-bonilha-a63709192)
+📫 **Let’s connect**: fsbonilha@gmail.com / [LinkedIn](http://www.linkedin.com/in/felipe-bonilha-a63709192)

@@ -1,12 +1,23 @@
-### Hello There! Great to see you here!
+# 👋 Welcome to My GitHub Profile!  
 
-My name is Felipe, I used to program as a hobby and to make some things at work easier.
+Hi, I'm **Felipe** – a (very) curious **Software Developer** driven by an insatiable thirst for learning and growing.  
 
-I have a degree in Business and have worked mostly with Data, both Data Analytics and Data Science.
+I hold a **degree in Business** and have a dreatm to make a difference in the world with my own code. Currently, I’m leveling up my tech skills by pursuing a degree in Information Systems, with a focus on building scalable and efficient software.  
 
-Now I am currently persuing a degree in Information Systems to transation to Software Developement.
+---
 
-### Hobbies
+## 🔧 What I’m About  
+- 💻 Writing clean, efficient, and scalable code to build software that makes a difference.
+- 🚀 Tackling challenges head-on with an business mindset and a seeking innovation.
+- 🛠️ Continuously learning and experimenting with new technologies to refine my craft.
 
-I love chess and all things around it, my goal is to some day build my own chess engine (and try to beat it myself). 
+---
 
+## ♟️ Hobbies & Aspirations  
+Outside of coding, I’m passionate about **chess** – not just playing it, but watching it, studying it's strategy and learning about it's history. One of my long-term goals is to build my own **chess engine** and, who knows, one day try to beat it!  
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or chat about software, data, or chess!  
+
+📫 **Let’s connect**: fsbonilha@gmail.com / [LinkedIn](www.linkedin.com/in/felipe-bonilha-a63709192)

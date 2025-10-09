@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!  
 
-Hi, I'm **Felipe** – a (very) curious **Software Developer** driven by an insatiable thirst for learning and growing.  
+Hi, I'm **Felipe** – a curious **Software Developer** driven by an insatiable thirst for learning and growing.  
 
 I hold a **degree in Business** and have a dreatm to make a difference in the world with my own code. Currently, I’m leveling up my tech skills by pursuing a degree in Information Systems, with a focus on building scalable and efficient software.  
 
